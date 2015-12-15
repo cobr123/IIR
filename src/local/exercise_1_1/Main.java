@@ -1,3 +1,5 @@
+package local.exercise_1_1;
+
 import java.util.*;
 
 public class Main {
